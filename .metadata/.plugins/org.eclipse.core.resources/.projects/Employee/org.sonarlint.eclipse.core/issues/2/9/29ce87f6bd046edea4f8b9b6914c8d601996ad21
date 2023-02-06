@@ -1,0 +1,17 @@
+
+
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ëHÏNRMINORZ
+CODE_SMELL
+|
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.CrossOrigin'.(º´Ñ†HÑNRMINORZ
+CODE_SMELL
+r
+java:S4684<"@Replace this persistent entity with a simple POJO or DTO object.(±š¡ HÓNRCRITICALZVULNERABILITY
+—
+java:S11920"cDefine a constant instead of duplicating this literal "Employee not found for this id :: " 3 times.(êƒ¾½ûÿÿÿÿHÔNRCRITICALZ
+CODE_SMELL
+w
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(ðäÑÒûÿÿÿÿHØNRCRITICALZVULNERABILITY
+[
+java:S3740N"/Provide the parametrized type for this generic.(òü¾ŸHÙNRMAJORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+
+g
+java:S1874$";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰öHà`RMINORZ
+CODE_SMELL
+p
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(Ë¶Ï“Há`RMINORZ
+CODE_SMELL
+p
+java:S5344 ">Don't use the default "PasswordEncoder" relying on plain-text.(Ö˜ÔÚHâ`RCRITICALZVULNERABILITY
+M
+java:S11163"Remove this empty statement.(Ðö€ÛøÿÿÿÿHã`RMINORZ
+CODE_SMELL

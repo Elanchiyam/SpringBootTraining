@@ -1,0 +1,34 @@
+
+Š
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òõ ÔÿÿÿÿÿHÁMRMINORZ
+CODE_SMELL
+Š
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûå²ÁþÿÿÿÿHÃMRMINORZ
+CODE_SMELL
+Š
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê‘ž’øÿÿÿÿHÅMRMINORZ
+CODE_SMELL
+w
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(Žœ‹¨ýÿÿÿÿHÇMRCRITICALZVULNERABILITY
+g	java:S125"<This block of commented-out lines of code should be removed.(À¯šÊHÈMRMAJORZ
+CODE_SMELL
+l	java:S125-"<This block of commented-out lines of code should be removed.(þÒ¦ÃÿÿÿÿÿHËMRMAJORZ
+CODE_SMELL
+l	java:S1256"<This block of commented-out lines of code should be removed.(¾ÔÓ ùÿÿÿÿHÎMRMAJORZ
+CODE_SMELL
+g	java:S125E"<This block of commented-out lines of code should be removed.(Ù•íšHÑMRMAJORZ
+CODE_SMELL
+]
+java:S1135N"2Complete the task associated to this TODO comment.(‡ñÅ¼HÔMRINFOZ
+CODE_SMELL
+w
+java:S4684U"@Replace this persistent entity with a simple POJO or DTO object.(¢žÈêûÿÿÿÿHÕMRCRITICALZVULNERABILITY
+
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ëHÖMRMINORZ
+CODE_SMELL
+ƒ
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™ÐÿûÿÿÿÿHØMRMINORZ
+CODE_SMELL
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿHÚMRMINORZ
+CODE_SMELL

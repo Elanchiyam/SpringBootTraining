@@ -1,0 +1,6 @@
+
+™
+java:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ûŒÜâH»aRMINORZ
+CODE_SMELL
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ú¡Ó«ýÿÿÿÿH¾aRCRITICALZVULNERABILITY

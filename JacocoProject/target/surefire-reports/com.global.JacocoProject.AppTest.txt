@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.global.JacocoProject.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.023 s <<< FAILURE! - in com.global.JacocoProject.AppTest
+testPalindrome(com.global.JacocoProject.AppTest)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/jupiter/api/Assertions
+	at com.global.JacocoProject.AppTest.testPalindrome(AppTest.java:28)
+Caused by: java.lang.ClassNotFoundException: org.junit.jupiter.api.Assertions
+	at com.global.JacocoProject.AppTest.testPalindrome(AppTest.java:28)
+

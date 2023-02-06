@@ -1,0 +1,27 @@
+
+b
+java:S11355"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÜaRINFOZ
+CODE_SMELL
+u
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÞÑ´åHÝaRMAJORZBUG
+b
+java:S1135/"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÞaRINFOZ
+CODE_SMELL
+i
+java:S1612">Replace this lambda with method reference 'employeeList::add'.(ÎØ×9HßaRMINORZ
+CODE_SMELL
+[
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕHáaRMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHãaRINFOZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHäaRINFOZ
+CODE_SMELL
+b
+java:S1135#"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHåaRINFOZ
+CODE_SMELL
+b
+java:S1135)"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHæaRINFOZ
+CODE_SMELL

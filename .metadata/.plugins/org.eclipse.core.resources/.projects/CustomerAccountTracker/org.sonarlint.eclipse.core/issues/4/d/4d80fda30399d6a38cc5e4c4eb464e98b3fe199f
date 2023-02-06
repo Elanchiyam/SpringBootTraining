@@ -1,0 +1,10 @@
+
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(áŒ—¯øÿÿÿÿ8óÃºµ½0H¨RRCRITICALZVULNERABILITY
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŒ—¯øÿÿÿÿ8¶ä¸µ½0H§RRMINORZ
+CODE_SMELL
+€
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ø„Õçüÿÿÿÿ8óÃºµ½0HªRRMINORZ
+CODE_SMELL
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(áŒ—¯øÿÿÿÿ8óÃºµ½0H©RRCRITICALZVULNERABILITY

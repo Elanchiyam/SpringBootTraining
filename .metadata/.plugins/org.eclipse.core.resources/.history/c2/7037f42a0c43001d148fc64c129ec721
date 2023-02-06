@@ -1,0 +1,23 @@
+package com.global.model;
+
+
+import javax.persistence.Id;
+import javax.persistence.Transient;
+
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import lombok.Data;
+
+@Data
+@Document("Employee")
+public class Employee {
+
+	@Transient
+	public static final String SEQUENCE_NAME=
+	
+	@Id
+	private Integer employeeId;
+	private String firstName;
+	private String lastName;
+	
+}

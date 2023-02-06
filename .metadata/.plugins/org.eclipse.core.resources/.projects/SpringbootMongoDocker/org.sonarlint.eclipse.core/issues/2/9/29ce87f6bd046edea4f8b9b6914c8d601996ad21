@@ -1,0 +1,38 @@
+
+l	java:S125."<This block of commented-out lines of code should be removed.(þÒ¦ÃÿÿÿÿÿHîMRMAJORZ
+CODE_SMELL
+Š
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûå²ÁþÿÿÿÿHèMRMINORZ
+CODE_SMELL
+l	java:S1257"<This block of commented-out lines of code should be removed.(¾ÔÓ ùÿÿÿÿHñMRMAJORZ
+CODE_SMELL
+w
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(Žœ‹¨ýÿÿÿÿHêMRCRITICALZVULNERABILITY
+g	java:S125"<This block of commented-out lines of code should be removed.(À¯šÊHëMRMAJORZ
+CODE_SMELL
+Š
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê‘ž’øÿÿÿÿHæMRMINORZ
+CODE_SMELL
+g	java:S125F"<This block of commented-out lines of code should be removed.(Ù•íšHôMRMAJORZ
+CODE_SMELL
+]
+java:S1135O"2Complete the task associated to this TODO comment.(‡ñÅ¼H÷MRINFOZ
+CODE_SMELL
+Œ
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦¯®Ù8Ÿî½©½0H°NRMINORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ß¡¾©½0HÃNRMINORZ
+CODE_SMELL
+‡
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(›¥÷ˆûÿÿÿÿ8ß¡¾©½0HÅNRMINORZ
+CODE_SMELL
+†
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8ß¡¾©½0HÇNRMINORZ
+CODE_SMELL
+Š
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ðÿûÿÿÿÿ8ß¡¾©½0HÉNRMINORZ
+CODE_SMELL
+‰
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8ß¡¾©½0HËNRMINORZ
+CODE_SMELL

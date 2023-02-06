@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EmployeeController.java&apos; to &apos;SpringbootMongoDocker/src/main/java/com.global.controller&apos;&#x0A;- Original project: &apos;SpringBoot_MongoDB&apos;&#x0A;- Destination element: &apos;SpringbootMongoDocker/src/main/java/com.global.controller&apos;&#x0A;- Original element: &apos;com.global.controller.EmployeeController.java&apos;" description="Copy compilation unit" destination="=SpringbootMongoDocker/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.global.controller" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.global.controller{EmployeeController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1665727420024" units="1" version="1.0"/>
+</session>

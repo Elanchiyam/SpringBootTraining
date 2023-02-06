@@ -1,0 +1,21 @@
+
+…	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „éøÿÿÿÿ8µŸĞ¶½0H³\RMINORZ
+CODE_SMELL
+|
+java:S3655A"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¦ çœ8µŸĞ¶½0H±\RMAJORZBUG
+e
+java:S1172Q"-Remove this unused method parameter "length".(ˆÊÅıÿÿÿÿ8œÒÕ´½0H®\RMAJORZ
+CODE_SMELL
+L
+java:S2119R"Save and re-use this "Random".(¼İÅf8…Ù†´½0H­\RCRITICALZBUG
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ªæ¶½0HÆ\RMINORZ
+CODE_SMELL
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§€ºô8µŸĞ¶½0H²\RMINORZ
+CODE_SMELL
+€	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‚õƒ8ˆùÑ´½0H¬\RMINORZ
+CODE_SMELL
+€	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„™º•8µŸĞ¶½0H´\RMINORZ
+CODE_SMELL
+	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğúZ8··¬µ½0H°\RMINORZ
+CODE_SMELL
